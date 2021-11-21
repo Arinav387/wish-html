@@ -1,2 +1,2 @@
-console.log('Hello World');
-console.warn('hello bitch');
+console.log('Birthday Wish');
+console.warn('Arinav come');
